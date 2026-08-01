@@ -40,9 +40,6 @@ start.bat        <- double click this
 
 ---
 
-
----
-
 ## 📸 Screenshots
 
 ### Dashboard Overview
@@ -54,7 +51,6 @@ start.bat        <- double click this
 ![Dashboard Screenshot](screenshots/dashboard1.png)
 
 ---
-
 
 ## Which model
 
