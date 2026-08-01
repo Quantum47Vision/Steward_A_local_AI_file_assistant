@@ -47,9 +47,6 @@ start.bat        <- double click this
 > `screenshots/dashboard.png`
 ![Dashboard Screenshot](screenshots/dashboard.png)
 
-> `screenshots/dashboard1.png`
-![Dashboard Screenshot](screenshots/dashboard1.png)
-
 ---
 
 ## Which model
