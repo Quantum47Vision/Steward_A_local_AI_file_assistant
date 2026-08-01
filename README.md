@@ -40,6 +40,22 @@ start.bat        <- double click this
 
 ---
 
+
+---
+
+## 📸 Screenshots
+
+### Dashboard Overview
+
+> `screenshots/dashboard.png`
+![Dashboard Screenshot](screenshots/dashboard.png)
+
+> `screenshots/dashboard1.png`
+![Dashboard Screenshot](screenshots/dashboard1.png)
+
+---
+
+
 ## Which model
 
 It reads the folder you point it at and picks a loader:
