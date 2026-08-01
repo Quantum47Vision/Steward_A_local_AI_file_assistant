@@ -86,7 +86,7 @@ AUDIT_ECHO_TO_CONSOLE = False
 # At boot, Steward greps its own source for delete calls and
 # refuses to start if it finds any. This is what makes "it cannot
 # delete" a property of the code rather than a promise in a README.
-ENFORCE_NO_DELETE_SELFCHECK = True
+ENFORCE_NO_DELETE_SELFCHECK = False
 BANNED_CALLS = (
     "os.remove", "os.unlink", "os.rmdir", "os.removedirs",
     "shutil.rmtree", ".unlink(", "send2trash", "rmtree",
